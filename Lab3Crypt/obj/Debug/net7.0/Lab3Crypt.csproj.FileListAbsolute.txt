@@ -1,0 +1,15 @@
+C:\Users\serzh\source\repos\Lab3Crypt\Lab3Crypt\bin\Debug\net7.0\Lab3Crypt.exe
+C:\Users\serzh\source\repos\Lab3Crypt\Lab3Crypt\bin\Debug\net7.0\Lab3Crypt.deps.json
+C:\Users\serzh\source\repos\Lab3Crypt\Lab3Crypt\bin\Debug\net7.0\Lab3Crypt.runtimeconfig.json
+C:\Users\serzh\source\repos\Lab3Crypt\Lab3Crypt\bin\Debug\net7.0\Lab3Crypt.dll
+C:\Users\serzh\source\repos\Lab3Crypt\Lab3Crypt\bin\Debug\net7.0\Lab3Crypt.pdb
+C:\Users\serzh\source\repos\Lab3Crypt\Lab3Crypt\obj\Debug\net7.0\Lab3Crypt.csproj.AssemblyReference.cache
+C:\Users\serzh\source\repos\Lab3Crypt\Lab3Crypt\obj\Debug\net7.0\Lab3Crypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serzh\source\repos\Lab3Crypt\Lab3Crypt\obj\Debug\net7.0\Lab3Crypt.AssemblyInfoInputs.cache
+C:\Users\serzh\source\repos\Lab3Crypt\Lab3Crypt\obj\Debug\net7.0\Lab3Crypt.AssemblyInfo.cs
+C:\Users\serzh\source\repos\Lab3Crypt\Lab3Crypt\obj\Debug\net7.0\Lab3Crypt.csproj.CoreCompileInputs.cache
+C:\Users\serzh\source\repos\Lab3Crypt\Lab3Crypt\obj\Debug\net7.0\Lab3Crypt.dll
+C:\Users\serzh\source\repos\Lab3Crypt\Lab3Crypt\obj\Debug\net7.0\refint\Lab3Crypt.dll
+C:\Users\serzh\source\repos\Lab3Crypt\Lab3Crypt\obj\Debug\net7.0\Lab3Crypt.pdb
+C:\Users\serzh\source\repos\Lab3Crypt\Lab3Crypt\obj\Debug\net7.0\Lab3Crypt.genruntimeconfig.cache
+C:\Users\serzh\source\repos\Lab3Crypt\Lab3Crypt\obj\Debug\net7.0\ref\Lab3Crypt.dll
